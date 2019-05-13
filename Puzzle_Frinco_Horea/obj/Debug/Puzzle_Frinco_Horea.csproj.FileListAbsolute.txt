@@ -1,0 +1,68 @@
+e:\users\admin\documents\visual studio 2015\Projects\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Puzzle_Frinco_Horea.exe.config
+e:\users\admin\documents\visual studio 2015\Projects\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Clasament.mdf
+e:\users\admin\documents\visual studio 2015\Projects\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Clasament_log.ldf
+e:\users\admin\documents\visual studio 2015\Projects\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Puzzle_Frinco_Horea.exe
+e:\users\admin\documents\visual studio 2015\Projects\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Puzzle_Frinco_Horea.pdb
+e:\users\admin\documents\visual studio 2015\Projects\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.csprojResolveAssemblyReference.cache
+e:\users\admin\documents\visual studio 2015\Projects\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.administrareForm.resources
+e:\users\admin\documents\visual studio 2015\Projects\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.editareForm.resources
+e:\users\admin\documents\visual studio 2015\Projects\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.jocForm.resources
+e:\users\admin\documents\visual studio 2015\Projects\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.logForm.resources
+e:\users\admin\documents\visual studio 2015\Projects\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.Properties.Resources.resources
+e:\users\admin\documents\visual studio 2015\Projects\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.puzzleForm.resources
+e:\users\admin\documents\visual studio 2015\Projects\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.csproj.GenerateResource.Cache
+e:\users\admin\documents\visual studio 2015\Projects\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.exe
+e:\users\admin\documents\visual studio 2015\Projects\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.pdb
+e:\users\admin\documents\visual studio 2015\Projects\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.inputForm.resources
+C:\Users\Chosen\Desktop\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Puzzle_Frinco_Horea.exe.config
+C:\Users\Chosen\Desktop\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.exe
+C:\Users\Chosen\Desktop\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.pdb
+C:\Users\Chosen\Desktop\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Clasament.mdf
+C:\Users\Chosen\Desktop\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Clasament_log.ldf
+C:\Users\Chosen\Desktop\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Puzzle_Frinco_Horea.exe
+C:\Users\Chosen\Desktop\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Puzzle_Frinco_Horea.pdb
+C:\Users\Chosen\Desktop\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.csprojResolveAssemblyReference.cache
+C:\Users\Chosen\Desktop\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.administrareForm.resources
+C:\Users\Chosen\Desktop\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.editareForm.resources
+C:\Users\Chosen\Desktop\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.inputForm.resources
+C:\Users\Chosen\Desktop\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.jocForm.resources
+C:\Users\Chosen\Desktop\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.logForm.resources
+C:\Users\Chosen\Desktop\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.Properties.Resources.resources
+C:\Users\Chosen\Desktop\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.puzzleForm.resources
+C:\Users\Chosen\Desktop\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.csproj.GenerateResource.Cache
+C:\Users\Chosen\Desktop\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.clasamentForm.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Puzzle_Frinco_Horea.exe.config
+E:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.exe
+E:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.pdb
+E:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Clasament.mdf
+E:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Clasament_log.ldf
+E:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Puzzle_Frinco_Horea.exe
+E:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Puzzle_Frinco_Horea.pdb
+E:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.csprojResolveAssemblyReference.cache
+E:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.administrareForm.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.clasamentForm.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.editareForm.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.inputForm.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.jocForm.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.logForm.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.Properties.Resources.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.puzzleForm.resources
+E:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.csproj.GenerateResource.Cache
+F:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Clasament.mdf
+F:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Clasament_log.ldf
+F:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Puzzle_Frinco_Horea.exe.config
+F:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Puzzle_Frinco_Horea.exe
+F:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\bin\Debug\Puzzle_Frinco_Horea.pdb
+F:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.csprojResolveAssemblyReference.cache
+F:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.administrareForm.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.clasamentForm.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.editareForm.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.inputForm.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.jocForm.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.logForm.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.Properties.Resources.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.puzzleForm.resources
+F:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.csproj.GenerateResource.Cache
+F:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.csproj.CoreCompileInputs.cache
+F:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.exe
+F:\Altele\Scoala\Info\C#\Proiecte C#\2013_jud_Puzzle\Puzzle_Frinco_Horea\Puzzle_Frinco_Horea\obj\Debug\Puzzle_Frinco_Horea.pdb
